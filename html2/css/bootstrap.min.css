@@ -4506,7 +4506,9 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
 
 @media (min-width:768px) {
     .navbar-header {
-        float: left
+        float: left;
+        margin-top: 5px;
+        margin-bottom: 7px;
     }
 }
 
