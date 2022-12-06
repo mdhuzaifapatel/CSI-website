@@ -4436,9 +4436,9 @@ svg.logo text {
 }
 
 .signin-signup-form .form-title {
-    color: #22A6FE;
-    font-weight: 300;
-    font-size: 19px;
+    color: #24395A;
+    font-weight: 650;
+    font-size: 20px;
     margin-bottom: 50px;
     text-align: left;
 }
@@ -6952,13 +6952,24 @@ svg.logo text {
 
     .website-logo {
         position: absolute;
-        top: 30px;
-        left: 30px;
-        width: inherit;
+        /* top: 30px;
+        left: 30px; */
+        /* background-color: #000; */
+        /* width: inherit; */
     }
 
+    .l{
+        background-color: #142745;
+        color: #142745;
+        margin-top: -60px;
+        width: 100%;
+        /* height: auto; */
+    }
+
+    
     .website-logo .logo {
-        background-image: url("../images/logo_dark.png");
+        background-image: url("../images/logo.png");
+        /* background-color: #0013ba; */
     }
 
     #form-section svg.logo text {
