@@ -95,8 +95,8 @@ a, input[type="submit"] {
 
 /* about us css */
 .about-content{
-    /* margin-bottom: 35px; */
-    margin-top: -50px;
+    margin-bottom: 65px;
+    margin-top: -80px;
 }
 
 .about-content h4{
@@ -112,6 +112,10 @@ a, input[type="submit"] {
     color: white;
     font-weight: 450;
     text-align: start;
+}
+
+.about-special{
+margin-top: 40px;
 }
 
 .row-title.grey-color {
@@ -7216,11 +7220,18 @@ svg.logo text {
 
     .about-content p{
         margin-top: 30px;
-        margin-bottom: -45px;
         font-size: 15px;
-        font-weight: 350;
+        font-weight: 400;
         color: white;
         text-align:start;
+    }
+
+    .about-special{
+        margin-top: -60px;
+        }
+    
+    .about-spacing{
+        margin-bottom: -60px;
     }
     /* -------- */
 
