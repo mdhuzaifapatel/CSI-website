@@ -453,6 +453,13 @@ a, input[type="submit"] {
     width: 170px;
 }
 
+.img-csi{
+    margin-right: -25px;
+    margin-left: 50px ;
+    margin-top: -8px;
+    width: 75px;
+}
+
 svg.logo {
     width: 62px;
     height: auto;
@@ -3257,6 +3264,12 @@ svg.logo text {
 
     .img-logo {
         width: 120px;
+    }
+
+    .logo-csi{
+        margin-left: -70px;
+        margin-top: 25px;
+        margin-bottom: 5px;
     }
 }
 
