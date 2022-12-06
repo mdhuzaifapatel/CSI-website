@@ -89,9 +89,8 @@ a, input[type="submit"] {
     font-weight: 700;
     color: #2F3C52;
     position: relative;
-    margin-top: 30px;
-    margin-top: 0;
-    margin-bottom: 5px;
+    margin-top: -50px;
+    /* margin-bottom: 5px; */
 }
 
 .row-title.grey-color {
@@ -1709,12 +1708,13 @@ svg.logo text {
 }
 
 #info .info-text {
+    text-align:start;
     padding-left: 15%;
     padding-right: 15%;
     margin-bottom: 30px;
     font-size: 22px;
-    font-weight: 300;
-    color: #3f3d59;
+    font-weight: 450;
+    color: #4a4956;
 }
 
 #h-info {
@@ -7161,9 +7161,21 @@ svg.logo text {
         padding-bottom: 40px;
     }
 
+    .row-title {
+        font-size: 20px;
+        margin-top: -10px;
+        margin-bottom: -5px;
+    }
+
+
     #info .info-text {
+        text-align:start;
         padding-left: 5%;
         padding-right: 5%;
+        margin-bottom: 30px;
+        font-size: 15px;
+        font-weight: 430;
+        color: #3f3d59;
     }
 
     #custom-plan {
