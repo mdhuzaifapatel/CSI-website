@@ -434,22 +434,22 @@ a, input[type="submit"] {
     text-decoration: none;
 }
 
-.logo-holder .logo{
+.logo-holder .logo {
     display: inline-block;
     background-image: url(../images/logo.png);
     background-size: contain;
     background-repeat: no-repeat;
-    
+
 }
 
-.sticky{
+.sticky {
     position: fixed;
     top: 0;
     width: 100%;
     z-index: 100;
 }
 
-.img-logo{
+.img-logo {
     width: 170px;
 }
 
@@ -3247,6 +3247,16 @@ svg.logo text {
 
     .pricing-box.pricing-box-horizontal .pricing-content .price-link-holder {
         background-color: transparent;
+    }
+
+    .logo-mobile {
+        margin-bottom: 5px;
+        margin-top: 5px;
+        margin-left: -25px;
+    }
+
+    .img-logo {
+        width: 120px;
     }
 }
 
@@ -6958,7 +6968,7 @@ svg.logo text {
         /* width: inherit; */
     }
 
-    .l{
+    .l {
         background-color: #142745;
         color: #142745;
         margin-top: -60px;
@@ -6966,7 +6976,7 @@ svg.logo text {
         /* height: auto; */
     }
 
-    
+
     .website-logo .logo {
         background-image: url("../images/logo.png");
         /* background-color: #0013ba; */
