@@ -90,23 +90,23 @@ a, input[type="submit"] {
     color: #2F3C52;
     position: relative;
     margin-top: -10px;
-    /* margin-bottom: 5px; */
+    margin-bottom: -10px;
 }
 
 /* about us css */
-.about-content{
+.about-content {
     margin-bottom: 65px;
     margin-top: -80px;
 }
 
-.about-content h4{
+.about-content h4 {
     /* text-align: center; */
     font-size: 30px;
     color: white;
     font-weight: bold;
 }
 
-.about-content p{
+.about-content p {
     margin-top: 40px;
     font-size: 20px;
     color: white;
@@ -114,8 +114,8 @@ a, input[type="submit"] {
     text-align: start;
 }
 
-.about-special{
-margin-top: 40px;
+.about-special {
+    margin-top: 40px;
 }
 
 .row-title.grey-color {
@@ -477,9 +477,9 @@ margin-top: 40px;
     width: 170px;
 }
 
-.img-csi{
+.img-csi {
     margin-right: -25px;
-    margin-left: 50px ;
+    margin-left: 50px;
     margin-top: -8px;
     width: 75px;
 }
@@ -1733,7 +1733,7 @@ svg.logo text {
 }
 
 #info .info-text {
-    text-align:start;
+    text-align: justify;
     padding-left: 15%;
     padding-right: 15%;
     margin-bottom: 30px;
@@ -3291,7 +3291,7 @@ svg.logo text {
         width: 120px;
     }
 
-    .logo-csi{
+    .logo-csi {
         margin-left: -70px;
         margin-top: 25px;
         margin-bottom: 5px;
@@ -4721,7 +4721,7 @@ svg.logo text {
     text-align: center;
     padding-top: 0px;
     width: 275px;
-    height:275px;
+    height: 275px;
     border-radius: 500px;
     background-repeat: repeat-x;
     background-image: -webkit-linear-gradient(120deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.01));
@@ -5151,7 +5151,6 @@ svg.logo text {
     padding-top: 80px;
     padding-bottom: 80px;
     position: relative;
-    z-index: 100;
 }
 
 #more-info .bg-custom {
@@ -5201,15 +5200,17 @@ svg.logo text {
     padding: 0;
     margin: 0;
     width: auto;
+
 }
 
 #more-info .links-holder ul li {
     margin-bottom: 15px;
+
 }
 
 #more-info .links-holder ul li .info-link {
     position: relative;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 600;
     text-align: left;
     color: #ffffff;
@@ -5291,11 +5292,12 @@ svg.logo text {
 }
 
 .info-details-holder .info-details p {
-    font-size: 16px;
-    font-weight: 300;
+    font-size: 18px;
+    text-align: start;
+    font-weight: 350;
     line-height: 26px;
     color: #ffffff;
-    opacity: 0.7;
+    opacity: 0.8;
 }
 
 .info-details-holder .info-details .photo {
@@ -5519,7 +5521,7 @@ svg.logo text {
     background-repeat: repeat-x;
     background-image: -webkit-linear-gradient(90deg, #283d5f, #142745);
     background-image: -o-linear-gradient(90deg, #283d5f, #142745);
-    background-image: linear-gradient(90deg, #283d5f, #142745);
+    background-image: linear-gradient(90deg, #263B5C, #172A49);
     padding-top: 30px;
     padding-bottom: 40px;
     text-align: center;
@@ -7188,55 +7190,108 @@ svg.logo text {
     }
 
     .row-title {
-        font-size: 20px;
+        font-size: 18px;
         margin-top: -10px;
         margin-bottom: -5px;
+    }
+
+    #more-info .links-holder ul li .info-link {
+        position: relative;
+        font-size: 15px;
+        font-weight: 600;
+        text-align: left;
+        color: #ffffff;
+        background-color: transparent;
+        border-radius: 15px;
+        -webkit-box-shadow: 0 8px 18px transparent;
+        box-shadow: 0 8px 18px transparent;
+        padding: 10px 40px 10px 25px;
+        cursor: pointer;
+        -webkit-transition: all 0.3s ease;
+        transition: all 0.3s ease;
+    }
+
+
+    .info-details-holder .info-details h1 {
+        font-size: 18px;
+        font-weight: 600;
+        color: #ffffff;
+        margin-bottom: 20px;
+        margin-top: 50px;
+    }
+    
+    .info-details-holder .info-details p {
+        font-size: 15px;
+        font-weight: 350;
+        line-height: 26px;
+        color: #ffffff;
+        opacity: 0.9;
+    }
+
+    #apps .apps-holder .app-icon-holder:after {
+        position: absolute;
+        content: "";
+        top: -36px;
+        left: 50%;
+        margin-left: -45px;
+        margin-top: 11px;
+        width: 90px;
+        height: 90px;
+        border-radius: 400px;
+        background-color: transparent;
+        -webkit-transition: all 0.3s ease;
+        transition: all 0.3s ease;
+        z-index: -1;
+        background-color: transparent;
+        -webkit-box-shadow: 0 7px 18px transparent;
+        box-shadow: 0 7px 18px transparent;
     }
 
 
     /* about csi logo css */
 
-    .servers-icon{
+    .servers-icon {
         width: 100px;
         height: 100px;
         border-radius: 200px;
     }
 
-    .csi-logo{
+    .csi-logo {
         margin-top: 0px;
     }
 
-    .about-content{
-        margin-top: 10rem; 
+    .about-content {
+        margin-top: 10rem;
         /* margin-bottom: 35px; */
     }
 
-    .about-content h4{
+    .about-content h4 {
         text-align: center;
         font-size: 25px;
         color: white;
         font-weight: bold;
     }
 
-    .about-content p{
+    .about-content p {
         margin-top: 30px;
         font-size: 15px;
         font-weight: 400;
         color: white;
-        text-align:start;
+        text-align: start;
     }
 
-    .about-special{
+    .about-special {
         margin-top: -60px;
-        }
-    
-    .about-spacing{
+    }
+
+    .about-spacing {
         margin-bottom: -60px;
     }
+
     /* -------- */
 
     #info .info-text {
-        text-align:start;
+        text-align: start;
         padding-left: 5%;
         padding-right: 5%;
         margin-bottom: 30px;
