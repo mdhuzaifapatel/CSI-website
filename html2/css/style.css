@@ -3254,9 +3254,15 @@ svg.logo text {
 }
 
 @media (max-width: 768px) {
+
+    
     .pricing-box.pricing-box-horizontal .pricing-content {
         -webkit-flex-direction: column;
         flex-direction: column;
+    }
+    .pricing-box.pricing-box-horizontal .card1{
+        -webkit-flex-direction: column;
+        flex-direction: column-reverse;
     }
 
     .pricing-box.pricing-box-horizontal .pricing-content .pricing-head {
@@ -3297,6 +3303,14 @@ svg.logo text {
         margin-bottom: 5px;
     }
 
+    #h-info .info-text {
+        padding-left: 10%;
+        padding-right: 10%;
+        margin-top: 30px;
+        font-size: 16px;
+        font-weight: 400;
+        color: #3f3d59;
+    }
 }
 
 #page-icon {
@@ -3306,8 +3320,8 @@ svg.logo text {
 
 #page-icon .pricing-icon {
     position: absolute;
-    width: 88px;
-    height: 88px;
+    width: 108px;
+    height: 108px;
     left: 50%;
     margin-left: -44px;
     bottom: -120px;
