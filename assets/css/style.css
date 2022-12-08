@@ -3767,6 +3767,8 @@ svg.logo text {
     color: #3f3d59;
     text-align: left;
   }
+
+  
 }
 
 #page-icon {
@@ -7757,6 +7759,23 @@ svg.logo text {
 }
 
 @media (max-width: 768px) {
+
+  #header-holder.contact-header #page-head .text {
+    font-size: 15px;
+    font-weight: 300;
+    color: #ffffff;
+    opacity: 0.5;
+    text-align: left;
+  }
+
+  #contact-info{
+    margin-top: 0;
+  }
+
+  #contact-info .info-box {
+    padding: 40px 30px;
+    margin: 25px;
+  }
   #header-holder {
     margin-bottom: 50px;
   }
