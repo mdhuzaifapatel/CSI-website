@@ -1,4 +1,3 @@
-# CSI-Website
+# Developed by Md Huzaifa & Dhiraj
 
-/html2
  
