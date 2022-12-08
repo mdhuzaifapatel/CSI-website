@@ -1,10 +1,10 @@
-# Project 11 - Hosting Website
+# CSI Club Website
 
 <!-- ![js](https://img.shields.io/badge/JS-Bootcamp-yellow) ![](https://img.shields.io/badge/HTML-Project_11-green) -->
 
 ## ![LCO Mascout](./assets/images/logo-preview.png)
 
-## Live link :- [Hosting](https://csi-kle.netlify.app/)
+## Live link :- [here](https://csi-kle.netlify.app/)
 
 ---
 
