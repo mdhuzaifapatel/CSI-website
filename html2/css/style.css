@@ -4023,16 +4023,16 @@ svg.logo text {
 
 #footer {
     background-color: #1b2844;
-    padding-left: 400px;
-    padding-right: 400px;
     padding-top: 50px;
     padding-bottom: 5px;
-    text-align: center;
+    text-align: right;
+    padding-left: 349px;
+
 }
 
 #footer .footer-spacing{
     margin-left: -50px;
-    margin-right: 80px;
+    margin-right: 100px;
 }
 
 #footer .footer-menu-holder {
@@ -4172,6 +4172,18 @@ svg.logo text {
     transition: all 0.3s ease 0s;
 }
 
+.credits{
+    background-color: #1B2844;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    color: white;
+    padding-left: 10px;
+    /* margin-top: 10px; */
+    /* margin-bottom: 20px; */
+    text-align: center;
+}
+
 #footer .address div {
     display: inline-block;
     color: #ffffff;
@@ -4208,13 +4220,14 @@ svg.logo text {
     display: inline-block;
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
+    margin-left: 25px;
 }
 
 #footer .social-menu li a [class*="fa"] {
     color: #6e7ea0;
-    font-size: 25px;
+    font-size: 22px;
     text-align: center;
-    min-width: 30px;
+    max-width: 150px;
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
 }
@@ -7011,8 +7024,9 @@ svg.logo text {
     }
 
     #footer ul.footer-menu li a {
-        font-size: 13px;
+        font-size: 14px;
     }
+
 
     .info-slider-holder {
         display: none;
@@ -7413,6 +7427,7 @@ svg.logo text {
 
     #footer .address-holder {
         margin-bottom: 20px;
+        min-width: 200px;
     }
 
     #footer {
@@ -7425,33 +7440,39 @@ svg.logo text {
     }
     
     #footer .footer-spacing{
-        margin-left: 10px;
+        margin-left: 20px;
         margin-right: 10px;
     }
 
     #footer .footer-menu-holder {
         display: inline-block;
         text-align: left;
-        min-width: 200px;
+        min-width: 250px;
     
     }
 
     .credits{
-        font-size: 13px;
+        background-color: #1B2844;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 14px;
         color: white;
-        margin-top: 10px;
-        margin-bottom: 20px;
+        /* margin-top: 10px; */
+        /* margin-bottom: 20px; */
         text-align: center;
     }
 
     #footer .footer-menu-holder {
         margin-bottom: 20px;
+        
+        /* text-align: left; */
     }
 
     #footer .social-menu li {
         text-align: center;
         display: inline-block;
-        margin: 20px;
+        margin-left: 5px;
+        margin-top: 15px;
     }
 
     #apps .apps-holder .apps-links-holder {
