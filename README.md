@@ -13,9 +13,9 @@
 ---
 ## Developed by
 
-- Muhammad Huzaifa Patel -  [Link](https://csi-kle.netlify.app/)
-- Dhiraj Inchalkaranji -  [Link](https://csi-kle.netlify.app/)
+- Muhammad Huzaifa Patel -  [Click here](https://mdhuzaifa.tech/)
+- Dhiraj Inchalkaranji -  [Click here](https://dhiraj-dev.tech/)
 
-## This Project took around 16 hours to complete
+## This Project took around 5-6 days to complete
 
  
