@@ -2,9 +2,9 @@
 
 <!-- ![js](https://img.shields.io/badge/JS-Bootcamp-yellow) ![](https://img.shields.io/badge/HTML-Project_11-green) -->
 
-## ![LCO Mascout](./assets/images/logo.png)
+## ![LCO Mascout](./assets/images/logo-preview.png)
 
-## ¶ live link :- [Hosting](https://csi-kle.netlify.app/)
+## Live link :- [Hosting](https://csi-kle.netlify.app/)
 
 ---
 
