@@ -4,7 +4,7 @@
 
 ## ![LCO Mascout](./assets/images/logo.png)
 
-## ¶ live link :- [Hosting](https://assignment-11-hosting.netlify.app/)
+## ¶ live link :- [Hosting](https://csi-kle.netlify.app/)
 
 ---
 
@@ -13,8 +13,8 @@
 ---
 ## Developed by
 
-- This project gave me great amount of expirence in Media Queries.
-- This is full mobile responsive website.
+- Muhammad Huzaifa Patel -  [Link](https://csi-kle.netlify.app/)
+- Dhiraj Inchalkaranji -  [Link](https://csi-kle.netlify.app/)
 
 ## This Project took around 16 hours to complete
 
