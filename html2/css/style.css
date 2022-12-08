@@ -4019,17 +4019,27 @@ svg.logo text {
 /*------------------------------------------------------------------
 	12. Footer Section Styles
 -------------------------------------------------------------------*/
+
+
 #footer {
     background-color: #1b2844;
-    padding-top: 90px;
-    padding-bottom: 70px;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 50px;
+    padding-bottom: 5px;
     text-align: center;
+}
+
+#footer .footer-spacing{
+    margin-left: -50px;
+    margin-right: 80px;
 }
 
 #footer .footer-menu-holder {
     display: inline-block;
     text-align: left;
     min-width: 130px;
+
 }
 
 #footer .address-holder {
@@ -4049,6 +4059,11 @@ svg.logo text {
     list-style: none;
     padding: 0;
     margin: 0;
+}
+
+#footer ul.footer-menu p {
+   color:#6E7EA0;
+   font-size: 15px;
 }
 
 #footer ul.footer-menu li {
@@ -7398,6 +7413,35 @@ svg.logo text {
 
     #footer .address-holder {
         margin-bottom: 20px;
+    }
+
+    #footer {
+        background-color: #1b2844;
+        padding-left: 20px;
+        padding-right: 80px;
+        padding-top: 50px;
+        padding-bottom: 5px;
+        text-align: center;
+    }
+    
+    #footer .footer-spacing{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    #footer .footer-menu-holder {
+        display: inline-block;
+        text-align: left;
+        min-width: 200px;
+    
+    }
+
+    .credits{
+        font-size: 13px;
+        color: white;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        text-align: center;
     }
 
     #footer .footer-menu-holder {
