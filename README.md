@@ -7,7 +7,7 @@
 ## Site is live at: :- [https://csi-kle.netlify.app/](https://csi-kle.netlify.app/)
 
 - This website was developed for CSI Club at KLE Engg College, Belgaum.
-- Participated in a website developing contest.
+- Participated in a website developing contest conducted by CSI CLub.
 ---
 
 ![preview](./assets/images/preview.png)
