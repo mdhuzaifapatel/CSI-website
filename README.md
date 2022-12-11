@@ -4,7 +4,7 @@
 
 ## ![LCO Mascout](./assets/images/logo-preview.png)
 
-## Live link :- [here](https://csi-kle.netlify.app/)
+## Site is live at: :- [https://csi-kle.netlify.app/](https://csi-kle.netlify.app/)
 
 ---
 
