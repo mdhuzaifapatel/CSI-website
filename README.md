@@ -2,7 +2,7 @@
 
 <!-- ![js](https://img.shields.io/badge/JS-Bootcamp-yellow) ![](https://img.shields.io/badge/HTML-Project_11-green) -->
 
-## ![LCO Mascout](./assets/images/logo-preview.png)
+## ![CSI logo](./assets/images/logo-preview.png)
 
 ## Site is live at: :- [https://csi-kle.netlify.app/](https://csi-kle.netlify.app/)
 
